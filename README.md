@@ -1,2 +1,2 @@
 # micropython-MultyWeb
-## a multy Web server for micropython on ESP32.
+## a multyful Web server for micropython on ESP32.
